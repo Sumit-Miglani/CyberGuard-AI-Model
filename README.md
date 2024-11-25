@@ -1,5 +1,5 @@
 # CyberGuard-AI-Model
-Repo for : India AI CyberGuard Hackathon<br> 
+**Repo for: IndiaAI CyberGuard Hackathon**<br> 
 Cybercrime is a rapidly evolving threat, impacting individuals and organizations worldwide. To combat this challenge, our project focuses on developing an AI-powered text classification system that categorizes cybercrime reports into actionable insights. Designed with precision and efficiency, the system leverages cutting-edge Natural Language Processing (NLP) techniques and a pre-trained BERT model to classify reports into categories, subcategories, and overarching themes. This tool aims to empower law enforcement by streamlining the analysis of unstructured textual data and guide citizens in filing cybercrime reports on the National Cyber Crime Reporting Portal (NCRP).
 
 # Key Features<br>
